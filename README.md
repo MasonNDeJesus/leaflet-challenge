@@ -1,8 +1,7 @@
 # leaflet-challenge
 Module 15 challenge repository
 
-Super easy assignment and omg is a so much easier than module 12.
-
+Super easy assignment and dear lord is it easier than module 12.
 Leaflet-Part-1 (folder) contains:
   -Images (folder)
   -static (folder) contains:
